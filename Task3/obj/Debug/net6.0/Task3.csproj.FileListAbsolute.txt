@@ -1,0 +1,15 @@
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+D:\my dox\repositories\DZ5\Task3\bin\Debug\net6.0\Task3.exe
+D:\my dox\repositories\DZ5\Task3\bin\Debug\net6.0\Task3.deps.json
+D:\my dox\repositories\DZ5\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+D:\my dox\repositories\DZ5\Task3\bin\Debug\net6.0\Task3.dll
+D:\my dox\repositories\DZ5\Task3\bin\Debug\net6.0\Task3.pdb
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.dll
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\refint\Task3.dll
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.pdb
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+D:\my dox\repositories\DZ5\Task3\obj\Debug\net6.0\ref\Task3.dll
